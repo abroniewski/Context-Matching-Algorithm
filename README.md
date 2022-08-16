@@ -1,15 +1,15 @@
 # Required packages in C++
-- <iostream>
-- <vector>
-- <cmath>
-- <limits>
-- <numeric>
-- <algorithm>
-- <fstream>
-- <string>
-- <iostream>
-- <ctime>
-- <random>
+- iostream 
+-  vector 
+-  cmath 
+-  limits 
+-  numeric 
+-  algorithm 
+-  fstream 
+-  string 
+-  iostream 
+-  ctime 
+-  random 
 # Required packages in python
 - matplotlib
 - sys
@@ -53,7 +53,7 @@ for($i=1; $i -lt 30; $i=$i+1){ python3 affichagev2.py ..\results\oui${i}.txt }
 ```
 ## commandes à executer sous linux :
 ```bash
-for ((i=1;i<=30;i++)); do ./a.out ../traj/${i}.csv ../resultGaussMixt/${i}.txt 1 ; done
+for ((i=1;i =30;i++)); do ./a.out ../traj/${i}.csv ../resultGaussMixt/${i}.txt 1 ; done
 ```
 
 ## Origine :
