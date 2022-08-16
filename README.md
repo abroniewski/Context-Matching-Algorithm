@@ -1,5 +1,49 @@
-# PRE
-
+# Required packages in C++
+- <iostream>
+- <vector>
+- <cmath>
+- <limits>
+- <numeric>
+- <algorithm>
+- <fstream>
+- <string>
+- <iostream>
+- <ctime>
+- <random>
+# Required packages in python
+- matplotlib
+- sys
+- nbformat
+# Map Matching
+## Compiling 
+```bash
+g++ ./cpp/class.cpp ./cpp/context.cpp ./cpp/io.cpp ./cpp/main_context_city.cpp 
+```
+## Execution
+```bash
+./a.out 
+```
+# Context Matching : fishing vessels
+```bash
+g++ ./cpp/class.cpp ./cpp/context.cpp ./cpp/io.cpp ./cpp/main_context_fishing.cpp 
+```
+## Execution : with 2 labels
+```bash
+./a.out  ./AIS_traj/traj/i.csv 1
+```
+## Execution : with 3 labels
+```bash
+./a.out  ./AIS_traj/traj/i.csv 2
+```
+# Context Matching : city user
+## Compiling 
+```bash
+g++ ./cpp/class.cpp ./cpp/context.cpp ./cpp/io.cpp ./cpp/main_context_city.cpp 
+```
+## Execution
+```bash
+./a.out 
+```
 ## commandes à executer sous windows :
 
 ```bash
