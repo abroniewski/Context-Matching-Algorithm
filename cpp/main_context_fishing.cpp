@@ -34,7 +34,7 @@ int main(int argc, char *argv[]){
    point init = pointss[0] +(1,1);
     line coast(vector<point>({init}));
 
-    vector<state_fish> states=particle_filterv2(pointsfish,coast,100); //100
+    vector<state_c> states=particle_filterv2(pointsfish,coast,100); //100
     /*
     vector<int> processed=lissage(states,10);
     for(int k=0;k<states.size();++k){

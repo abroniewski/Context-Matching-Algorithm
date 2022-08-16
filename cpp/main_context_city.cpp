@@ -76,7 +76,7 @@ int main(){
     line coast(vector<point>({init}));
     
     
-    vector<state_fish> states=particle_filterv_cityv3(obs,station,100); //100
+    vector<state_c> states=particle_filterv_cityv3(obs,station,100); //100
     vector<int> contexte(0);
     vector<string> colorChoice({"blue","red","yellow","green","pink"});
     vector<point> outputJson(0);

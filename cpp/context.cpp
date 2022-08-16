@@ -72,11 +72,11 @@ constexpr double pi=3.1415;
 constexpr double sigma=40; //40 mais avec 6 ça marche aussi ?
 constexpr double EPSILON=0.4;
 
-state_fish::state_fish(){
+state_c::state_c(){
     
 }
 
-state_fish::state_fish( point position,double vitesse,point direction,point precdir,int contexte){
+state_c::state_c( point position,double vitesse,point direction,point precdir,int contexte){
     pos=position;
     speed=vitesse;
     dir=direction;
@@ -87,7 +87,7 @@ state_fish::state_fish( point position,double vitesse,point direction,point prec
 
 
 
-double proba_emission_fish(line coast, observation z, observation zAnt, state_fish etat){
+double proba_emission_fish(line coast, observation z, observation zAnt, state_c etat){
     double dist=probamatch(z.pos,coast);
     double rapprochement=dist-probamatch(zAnt.pos,coast);
     double speed=norm(z.pos-zAnt.pos)/abs(z.time-zAnt.time);
@@ -102,14 +102,14 @@ double proba_emission_fish(line coast, observation z, observation zAnt, state_fi
     }
 }
 
-double proba_emission_base(observation obs, state_fish state){
+double proba_emission_base(observation obs, state_c state){
     double denom=(1/sqrt(2*pi*sigma));
     double num=-0.5*pow((norm(obs.pos-state.pos)/sigma),2);
     return(denom*exp(num));
 }
 
 
-double proba_transi_fish(state_fish s1, state_fish s2){
+double proba_transi_fish(state_c s1, state_c s2){
     for(int i=0;i<3;++i){
         if(s1.context==i && (s2.context!=i+1 || s2.context!=i)){
             return(0);
@@ -157,7 +157,7 @@ double norm_GC(point a, point b){
 
 
 
-vector<double> importance_sampling_fish(line coast, vector<state_fish> S, observation obs, observation obsAnt){
+vector<double> importance_sampling_fish(line coast, vector<state_c> S, observation obs, observation obsAnt){
     vector<double> w(S.size(),0);
     for(int i =0;i<S.size();++i){
         w.at(i)=100000*proba_emission_base(obs,S[i]);
@@ -166,9 +166,9 @@ vector<double> importance_sampling_fish(line coast, vector<state_fish> S, observ
 }
 
 
-vector<state_fish> resample_fish(vector<state_fish> S, vector<double> w, int n){
+vector<state_c> resample_fish(vector<state_c> S, vector<double> w, int n){
     double T=0;
-    vector<state_fish> newS(0);
+    vector<state_c> newS(0);
     vector<double> k(w.size(),0);
     for(int i=0;i<w.size();++i){
         T+=w.at(i);
@@ -191,7 +191,7 @@ vector<state_fish> resample_fish(vector<state_fish> S, vector<double> w, int n){
 }
 
 
-state_fish update_fishv1(state_fish etat, int t){
+state_c update_fishv1(state_c etat, int t){
     //modelisation gaussian mixture et seulement 2 etats
     
     //initialisation
@@ -241,10 +241,10 @@ state_fish update_fishv1(state_fish etat, int t){
 
     }
 
-    return(state_fish(newpos,newvelocity,newdir,precd,etat.context));
+    return(state_c(newpos,newvelocity,newdir,precd,etat.context));
 }
 
-state_fish update_fishv2(state_fish etat, int t,line coast){
+state_c update_fishv2(state_c etat, int t,line coast){
     //modelisation gaussian mixture et 3 etats
     
     //initialisation
@@ -293,11 +293,11 @@ state_fish update_fishv2(state_fish etat, int t,line coast){
 
     }
 
-    return(state_fish(newpos,newvelocity,newdir,precd,etat.context));
+    return(state_c(newpos,newvelocity,newdir,precd,etat.context));
 }
 
 
-state_fish update_fish(state_fish etat, int t,line coast){
+state_c update_fish(state_c etat, int t,line coast){
     //modelisation gaussienne simple et 3 etats
     
     normal_distribution<double> distribution_fish(1.36,0.81); //1.23 0.4
@@ -334,12 +334,12 @@ state_fish update_fish(state_fish etat, int t,line coast){
         newvelocity=distribution_fish(generator);
         newpos=etat.pos+ newvelocity*t*newdir; // A changer !!
     }
-    return(state_fish(newpos,newvelocity,newdir,precd,etat.context));
+    return(state_c(newpos,newvelocity,newdir,precd,etat.context));
 
 }
 
-vector<state_fish> update_fish(vector<state_fish> echantillon, int t,line coast){
-    vector<state_fish> nouveau(echantillon.size());
+vector<state_c> update_fish(vector<state_c> echantillon, int t,line coast){
+    vector<state_c> nouveau(echantillon.size());
     for(int i=0;i<echantillon.size();++i){
 
         //nouveau[i]=update_fish(echantillon[i],t,coast);
@@ -351,16 +351,16 @@ vector<state_fish> update_fish(vector<state_fish> echantillon, int t,line coast)
 
 
 
-vector<state_fish> particle_filter(vector<observation> obs, line coast,int n){
+vector<state_c> particle_filter(vector<observation> obs, line coast,int n){
     //initialisation
-    vector<state_fish> Sample;
+    vector<state_c> Sample;
     vector<double> w;
-    vector<state_fish> res;
+    vector<state_c> res;
     int k;
     for(int i=0;i<n;++i){
         point direction=point((double)rand() / ((double)(RAND_MAX)),(double)rand() / ((double)(RAND_MAX)));
         int contexte=(int)((double)rand() / ((double)(RAND_MAX)));
-        Sample.push_back(update_fish(state_fish(obs[0].pos,0, direction,direction,1),obs[1].time-obs[0].time,coast));
+        Sample.push_back(update_fish(state_c(obs[0].pos,0, direction,direction,1),obs[1].time-obs[0].time,coast));
     }
     //Sample=update_fish(Sample);
     for(int i=0;i<obs.size()-1;++i){
@@ -377,17 +377,17 @@ vector<state_fish> particle_filter(vector<observation> obs, line coast,int n){
     return(res);
 }
 
-vector<state_fish> particle_filterv2(vector<observation> obs, line coast,int n){
+vector<state_c> particle_filterv2(vector<observation> obs, line coast,int n){
         //initialisation
-    vector<state_fish> Sample;
+    vector<state_c> Sample;
     vector<double> w;
-    vector<state_fish> res;
+    vector<state_c> res;
     int kk;
     int kontext;
     for(int i=0;i<n;++i){
         point direction=point((double)rand() / ((double)(RAND_MAX)),(double)rand() / ((double)(RAND_MAX)));
         int contexte=(int)((double)rand() / ((double)(RAND_MAX)));
-        Sample.push_back(update_fish(state_fish(obs[0].pos,0, direction,direction,1),obs[1].time-obs[0].time,coast));
+        Sample.push_back(update_fish(state_c(obs[0].pos,0, direction,direction,1),obs[1].time-obs[0].time,coast));
     }
     //Sample=update_fish(Sample);
     
@@ -415,8 +415,8 @@ vector<state_fish> particle_filterv2(vector<observation> obs, line coast,int n){
 }
 
 
-vector<state_fish> update_fishv3(state_fish etat, int t,int n,line coast){
-    vector<state_fish> newS;
+vector<state_c> update_fishv3(state_c etat, int t,int n,line coast){
+    vector<state_c> newS;
     for(int i=0;i<n;++i){
         newS.push_back(update_fish(etat,t,coast));
 
@@ -426,14 +426,14 @@ vector<state_fish> update_fishv3(state_fish etat, int t,int n,line coast){
 
 
 
-vector<state_fish> particle_filterv3(vector<observation> obs,line coast,int n){
+vector<state_c> particle_filterv3(vector<observation> obs,line coast,int n){
         //initialisation
-    vector<state_fish> Sample;
+    vector<state_c> Sample;
     vector<double> w;
-    vector<state_fish> res;
+    vector<state_c> res;
     int kk;
     int kontext=0;
-    state_fish etat;
+    state_c etat;
     int t=1;
 
     
@@ -475,7 +475,7 @@ vector<point> metersFromStart(vector<point> gpx){
     return(res);
 }
 
-void outputv2(char* arg, vector<state_fish> states,vector<point> pointss,vector<int> label){
+void outputv2(char* arg, vector<state_c> states,vector<point> pointss,vector<int> label){
     vector<point> match_sail_1;
         vector<point> match_fish_;
         vector<point> match_sail_2;
@@ -542,7 +542,7 @@ void outputv2(char* arg, vector<state_fish> states,vector<point> pointss,vector<
     }
 
 
-    vector<int> lissage(vector<state_fish> context,int seuil){
+    vector<int> lissage(vector<state_c> context,int seuil){
         int sail1;
         int fish;
         int sail2;
@@ -580,7 +580,7 @@ void outputv2(char* arg, vector<state_fish> states,vector<point> pointss,vector<
 
     }
 
-vector<double> importance_sampling_city(vector<state_fish> S, point z){
+vector<double> importance_sampling_city(vector<state_c> S, point z){
     vector<double> w(S.size(),0);
     for(int i =0;i<S.size();++i){
         w.at(i)=10000*proba_emission_base(z ,S[i].pos);
@@ -603,7 +603,7 @@ double distance_from_station(point pos,vector<point> station){
 }
 
 
-state_fish update_city(state_fish etat, int t,vector<point> station){
+state_c update_city(state_c etat, int t,vector<point> station){
     //simplest update version that only take into account speed
     
     //initialisation
@@ -672,11 +672,11 @@ state_fish update_city(state_fish etat, int t,vector<point> station){
 
     }
 
-    return(state_fish(newpos,newvelocity,newdir,precd,etat.context));
+    return(state_c(newpos,newvelocity,newdir,precd,etat.context));
 }
 
 
-state_fish update_cityv2(state_fish etat, int t){
+state_c update_cityv2(state_c etat, int t){
     //simplest update version that only take into account speed
     
     //initialisation
@@ -726,11 +726,11 @@ state_fish update_cityv2(state_fish etat, int t){
 
     }
 
-    return(state_fish(newpos,newvelocity,newdir,precd,etat.context));
+    return(state_c(newpos,newvelocity,newdir,precd,etat.context));
 }
 
-vector<state_fish> update_city(vector<state_fish> echantillon, int t,vector<point> station){
-    vector<state_fish> nouveau(echantillon.size());
+vector<state_c> update_city(vector<state_c> echantillon, int t,vector<point> station){
+    vector<state_c> nouveau(echantillon.size());
     for(int i=0;i<echantillon.size();++i){
 
         nouveau[i]=update_city(echantillon[i],t,station); //ligne à changer pour changer de méthode !
@@ -740,8 +740,8 @@ vector<state_fish> update_city(vector<state_fish> echantillon, int t,vector<poin
     return(nouveau);
 }
 
-vector<state_fish> update_cityv3(state_fish etat, int t,int n,vector<point> station){
-    vector<state_fish> newS;
+vector<state_c> update_cityv3(state_c etat, int t,int n,vector<point> station){
+    vector<state_c> newS;
     for(int i=0;i<n;++i){
         newS.push_back(update_city(etat,t,station));
 
@@ -751,17 +751,17 @@ vector<state_fish> update_cityv3(state_fish etat, int t,int n,vector<point> stat
 
 
 
-vector<state_fish> particle_filter_city(vector<observation> obs, vector<point> station,int n){
+vector<state_c> particle_filter_city(vector<observation> obs, vector<point> station,int n){
         //initialisation
-    vector<state_fish> Sample;
+    vector<state_c> Sample;
     vector<double> w;
-    vector<state_fish> res;
+    vector<state_c> res;
     int kk;
     int kontext;
     for(int i=0;i<n;++i){
         point direction=point((double)rand() / ((double)(RAND_MAX)),(double)rand() / ((double)(RAND_MAX)));
         int contexte=1;
-        Sample.push_back(update_city(state_fish(obs[0].pos,0, direction,direction,1),obs[1].time-obs[0].time,station));
+        Sample.push_back(update_city(state_c(obs[0].pos,0, direction,direction,1),obs[1].time-obs[0].time,station));
     }
     //Sample=update_fish(Sample)
     line coast;
@@ -790,14 +790,14 @@ vector<state_fish> particle_filter_city(vector<observation> obs, vector<point> s
     
 }
 
-vector<state_fish> particle_filterv_cityv3(vector<observation> obs,vector<point> station,int n){
+vector<state_c> particle_filterv_cityv3(vector<observation> obs,vector<point> station,int n){
         //initialisation
-    vector<state_fish> Sample;
+    vector<state_c> Sample;
     vector<double> w;
-    vector<state_fish> res;
+    vector<state_c> res;
     int kk;
     int kontext=0;
-    state_fish etat;
+    state_c etat;
     int t=1;
 
     
@@ -841,11 +841,11 @@ vector<int> SavitzkyGolay(vector<int> context, int l){
 }
 
 
-vector<state_fish> process_tram(vector<state_fish> states,vector<road> rails){
+vector<state_c> process_tram(vector<state_c> states,vector<road> rails){
     point x;
     point temp;
     point z;
-    vector<state_fish> res=states;
+    vector<state_c> res=states;
     for(int i=1;i<states.size();++i){
         if(states[i].context==2){
             z=states[i].pos;
