@@ -1,0 +1,4138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.48.3">
+  <bounds minlon="4.35250" minlat="50.81260" maxlon="4.38690" maxlat="50.85620" origin="0.48.3"/>
+  <node id="339237911" version="14" timestamp="2022-05-25T12:06:03Z" uid="0" user="" lat="50.8371229" lon="4.3865877">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Leman"/>
+    <tag k="name:TEC" v="Général Leman"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1803B"/>
+    <tag k="ref:TECB" v="Bettgle2"/>
+    <tag k="route_ref" v="36;80"/>
+    <tag k="route_ref:TECB" v="543"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="339237912" version="17" timestamp="2022-05-25T12:06:03Z" uid="0" user="" lat="50.8372342" lon="4.386751">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Leman"/>
+    <tag k="name:TEC" v="Général Leman"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1872B"/>
+    <tag k="ref:TECB" v="Bettgle1"/>
+    <tag k="route_ref" v="36"/>
+    <tag k="route_ref:TECB" v="543"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="428184003" version="16" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8360516" lon="4.3808348">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Étangs - Vijvers"/>
+    <tag k="name:fr" v="Étangs"/>
+    <tag k="name:nl" v="Vijvers"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3160"/>
+    <tag k="route_ref" v="59;60;80"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="430804743" version="15" timestamp="2022-05-25T12:06:03Z" uid="0" user="" lat="50.8419832" lon="4.3837013">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Schuman"/>
+    <tag k="name:etymology:wikidata" v="Q1837926"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="operator:wikidata" v="Q1631655"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1148C;1548B"/>
+    <tag k="route_ref" v="36;N06"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="430820168" version="10" timestamp="2022-05-25T12:06:03Z" uid="0" user="" lat="50.8388716" lon="4.3856325">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Nerviens - Nerviërs"/>
+    <tag k="name:fr" v="Nerviens"/>
+    <tag k="name:nl" v="Nerviërs"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1802"/>
+    <tag k="ref:TECB" v="Bbxlner2"/>
+    <tag k="route_ref" v="36;80"/>
+    <tag k="route_ref:TECB" v="543"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="430820169" version="13" timestamp="2022-05-25T12:06:03Z" uid="0" user="" lat="50.8389784" lon="4.3858531">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Nerviens - Nerviërs"/>
+    <tag k="name:fr" v="Nerviens"/>
+    <tag k="name:nl" v="Nerviërs"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1873"/>
+    <tag k="ref:TECB" v="Bbxlner1"/>
+    <tag k="route_ref" v="36;80"/>
+    <tag k="route_ref:TECB" v="543"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="433342514" version="11" timestamp="2022-05-26T12:34:33Z" uid="0" user="" lat="50.8367252" lon="4.3863564">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Leman"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3953"/>
+    <tag k="route_ref" v="80"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="433342518" version="20" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8378264" lon="4.3817393">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Jourdan"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3158B"/>
+    <tag k="route_ref" v="59;60"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="433342519" version="13" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.835504" lon="4.3806623">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Étangs - Vijvers"/>
+    <tag k="name:fr" v="Étangs"/>
+    <tag k="name:nl" v="Vijvers"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1733"/>
+    <tag k="route_ref" v="34"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="433342520" version="14" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8358437" lon="4.3798872">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Étangs - Vijvers"/>
+    <tag k="name:fr" v="Étangs"/>
+    <tag k="name:nl" v="Vijvers"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1777B"/>
+    <tag k="route_ref" v="34"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="433342524" version="13" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8357121" lon="4.3770086">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Museum"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1728"/>
+    <tag k="route_ref" v="34;80;N06"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="433342529" version="18" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8358628" lon="4.3749915">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Museum"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1769"/>
+    <tag k="route_ref" v="34;80;N06"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="433342532" version="13" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8363303" lon="4.3709946">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Idalie"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1983"/>
+    <tag k="route_ref" v="34;38;80;95;N06;N08"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="433342536" version="13" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8352558" lon="4.3720141">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Idalie"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1906"/>
+    <tag k="route_ref" v="38;95;N08"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="433342538" version="16" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.838902" lon="4.3728113">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Luxembourg - Luxemburg"/>
+    <tag k="name:de" v="Luxemburg"/>
+    <tag k="name:fr" v="Luxembourg"/>
+    <tag k="name:nl" v="Luxemburg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="21;27"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1233"/>
+    <tag k="route_ref" v="34;38;80;95"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="433342540" version="18" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8381141" lon="4.3728348">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Luxembourg - Luxemburg"/>
+    <tag k="name:fr" v="Luxembourg"/>
+    <tag k="name:nl" v="Luxemburg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4367B"/>
+    <tag k="route_ref" v="34;38;80;95"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="433342542" version="20" timestamp="2022-05-25T10:27:38Z" uid="0" user="" lat="50.8396507" lon="4.373624">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Luxembourg - Luxemburg"/>
+    <tag k="name:fr" v="Luxembourg"/>
+    <tag k="name:nl" v="Luxemburg"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="not_served_by" v="21;27"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1131B"/>
+    <tag k="ref:TECB" v="Bixlqll1"/>
+    <tag k="route_ref" v="12;64"/>
+    <tag k="route_ref:TECB" v="E"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="433342543" version="17" timestamp="2022-05-25T10:27:38Z" uid="0" user="" lat="50.8395513" lon="4.3734157">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Luxembourg - Luxemburg"/>
+    <tag k="name:fr" v="Luxembourg"/>
+    <tag k="name:nl" v="Luxemburg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1162C"/>
+    <tag k="route_ref" v="12;21;27;64"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="433342544" version="17" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8398651" lon="4.3692207">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Science - Wetenschap"/>
+    <tag k="name:fr" v="Science"/>
+    <tag k="name:nl" v="Wetenschap"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="12"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1729"/>
+    <tag k="route_ref" v="34;38;64;80;95"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="433342545" version="17" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8399017" lon="4.3694249">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Science - Wetenschap"/>
+    <tag k="name:fr" v="Science"/>
+    <tag k="name:nl" v="Wetenschap"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="12"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1776"/>
+    <tag k="route_ref" v="34;38;64;80;95"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="433342547" version="17" timestamp="2022-05-25T10:27:38Z" uid="0" user="" lat="50.8405071" lon="4.3665757">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trône - Troon"/>
+    <tag k="name:fr" v="Trône"/>
+    <tag k="name:nl" v="Troon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6432"/>
+    <tag k="route_ref" v="12;34;38;64;80;95"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="433342548" version="20" timestamp="2022-05-25T10:27:38Z" uid="0" user="" lat="50.8403718" lon="4.3667644">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trône - Troon"/>
+    <tag k="name:fr" v="Trône"/>
+    <tag k="name:nl" v="Troon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6433"/>
+    <tag k="route_ref" v="12;34;38;64;80;95"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="433342553" version="14" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8333227" lon="4.3856116">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Fétis"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1712"/>
+    <tag k="route_ref" v="34"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="433342554" version="14" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8330342" lon="4.3862558">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Fétis"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1764"/>
+    <tag k="route_ref" v="34"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="433342555" version="16" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8358841" lon="4.3723154">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Idalie"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1706"/>
+    <tag k="route_ref" v="34;80;N06"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="435590835" version="12" timestamp="2022-05-27T13:09:26Z" uid="0" user="" lat="50.8396825" lon="4.3806214">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Parc Léopold - Leopoldspark"/>
+    <tag k="name:fr" v="Parc Léopold"/>
+    <tag k="name:nl" v="Leopoldspark"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="note" v="This stop is only served on Sundays when Jourdan is closed (market), and is used by night buses"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3159"/>
+    <tag k="route_ref" v="59;60;80;N06"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="435590838" version="14" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8396335" lon="4.3805052">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Parc Léopold - Leopoldspark"/>
+    <tag k="name:fr" v="Parc Léopold"/>
+    <tag k="name:nl" v="Leopoldspark"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="note" v="Served by route 59 at all times and by route 80 on Sundays (re-routed because of Jourdan market)"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3117"/>
+    <tag k="route_ref" v="59;80"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="485996389" version="10" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8499853" lon="4.380979">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Clovis"/>
+    <tag k="name:De_Lijn" v="Sint-Joost-ten-Node Clovis"/>
+    <tag k="network" v="DLVB;IBXL"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="306813"/>
+    <tag k="ref:STIB_MIVB" v="1568"/>
+    <tag k="route_ref" v="29"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="486028764" version="13" timestamp="2022-06-01T07:30:36Z" uid="0" user="" lat="50.845172" lon="4.3775572">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Marie-Louise - Maria-Louiza"/>
+    <tag k="name:fr" v="Marie-Louise"/>
+    <tag k="name:nl" v="Maria-Louiza"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3080"/>
+    <tag k="route_ref" v="59;64"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="487192625" version="21" timestamp="2022-05-25T10:27:38Z" uid="0" user="" lat="50.8433742" lon="4.3840157">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Schuman"/>
+    <tag k="name:etymology:wikidata" v="Q1837926"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="operator:wikidata" v="Q1631655"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1418B"/>
+    <tag k="route_ref" v="12;60"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="487192634" version="20" timestamp="2022-05-25T10:27:38Z" uid="0" user="" lat="50.8432917" lon="4.3838242">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Schuman"/>
+    <tag k="name:etymology:wikidata" v="Q1837926"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="operator:wikidata" v="Q1631655"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1270B;1474B"/>
+    <tag k="route_ref" v="12;21;56;60;79"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="487192636" version="17" timestamp="2022-05-27T12:20:19Z" uid="0" user="" lat="50.8427384" lon="4.3836598">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Schuman"/>
+    <tag k="name:etymology:wikidata" v="Q1837926"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3399"/>
+    <tag k="route_ref" v="N06"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="490239905" version="9" timestamp="2022-05-25T18:05:41Z" uid="0" user="" lat="50.8512624" lon="4.3764417">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Braemt"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3118"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="490240239" version="14" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8498468" lon="4.3742443">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Saint-Josse - Sint-Joost"/>
+    <tag k="name:fr" v="Saint-Josse"/>
+    <tag k="name:nl" v="Sint-Joost"/>
+    <tag k="network" v="DLVB;IBXL"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="302479"/>
+    <tag k="ref:STIB_MIVB" v="1570"/>
+    <tag k="route_ref" v="29;63;N05"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="490691256" version="16" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8380935" lon="4.3620501">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Porte de Namur - Naamsepoort"/>
+    <tag k="name:fr" v="Porte de Namur"/>
+    <tag k="name:nl" v="Naamsepoort"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2967B"/>
+    <tag k="route_ref" v="54;71;N09;N10"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="490811743" version="16" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8230198" lon="4.3530228">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ma Campagne"/>
+    <tag k="name:De_Lijn" v="Sint-Gillis Ma Campagne"/>
+    <tag k="network" v="DLVB;IBXL;TECB;TECC"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301028"/>
+    <tag k="ref:STIB_MIVB" v="2959"/>
+    <tag k="ref:TECB" v="Bsgimca1"/>
+    <tag k="ref:TECC" v="Cbxcamp1"/>
+    <tag k="route_ref" v="54;N11"/>
+    <tag k="route_ref:De_Lijn" v="136"/>
+    <tag k="route_ref:TECB" v="W;123"/>
+    <tag k="route_ref:TECC" v="365a"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="490844386" version="19" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8331575" lon="4.3663938">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Fernand Cocq"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2928"/>
+    <tag k="route_ref" v="54;71;N09;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="490844398" version="18" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8331839" lon="4.3665668">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Fernand Cocq"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2963"/>
+    <tag k="route_ref" v="54;71;N09;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="491123124" version="10" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.8453207" lon="4.3866275">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Michel-Ange - Michelangelo"/>
+    <tag k="name:fr" v="Michel-Ange"/>
+    <tag k="name:nl" v="Michelangelo"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="12"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1464"/>
+    <tag k="route_ref" v="21;79"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="491123132" version="12" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.845141" lon="4.3864668">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Michel-Ange - Michelangelo"/>
+    <tag k="name:fr" v="Michel-Ange"/>
+    <tag k="name:nl" v="Michelangelo"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="12"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1402B"/>
+    <tag k="route_ref" v="21;63;79;N05"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="491152130" version="14" timestamp="2022-05-25T16:08:25Z" uid="0" user="" lat="50.8461974" lon="4.3831327">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ambiorix"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1273"/>
+    <tag k="route_ref" v="56;60;63;64;N05"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="491152141" version="13" timestamp="2022-05-25T16:08:25Z" uid="0" user="" lat="50.8477425" lon="4.3841377">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ambiorix"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2920"/>
+    <tag k="route_ref" v="56;60;63;64;N05"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="491195941" version="18" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8406088" lon="4.3647753">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trône - Troon"/>
+    <tag k="name:fr" v="Trône"/>
+    <tag k="name:nl" v="Troon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1734"/>
+    <tag k="route_ref" v="54;71;N11"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="492268269" version="13" timestamp="2022-05-26T11:09:09Z" uid="0" user="" lat="50.8525312" lon="4.3694897">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Quetelet"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="9060"/>
+    <tag k="route_ref" v="65;66"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="492269595" version="14" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8529417" lon="4.3688493">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Quetelet"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3313"/>
+    <tag k="route_ref" v="61;65;66"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="492269596" version="19" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8531784" lon="4.3663711">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Botanique - Kruidtuin"/>
+    <tag k="name:fr" v="Botanique"/>
+    <tag k="name:nl" v="Kruidtuin"/>
+    <tag k="network" v="DLVB;IBXL"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301078"/>
+    <tag k="ref:STIB_MIVB" v="6436"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="survey:date" v="2021-09-07"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="492356703" version="13" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8556815" lon="4.3584999">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rogier"/>
+    <tag k="name:De_Lijn" v="Brussel Rogier"/>
+    <tag k="network" v="IBXL;DLVB"/>
+    <tag k="operator" v="STIB/MIVB;De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="300894"/>
+    <tag k="ref:STIB_MIVB" v="1988"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="route_ref:De_Lijn" v="126;127;128;129;212;213;214;230;231;232;240;241;242;243;245;250;251;260;270;271;272;318;351;355;358;410;460;461;470"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="492369110" version="16" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8534465" lon="4.3661227">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Botanique - Kruidtuin"/>
+    <tag k="name:De_Lijn" v="Sint-Joost-Ten-Node Kruidtuin"/>
+    <tag k="name:fr" v="Botanique"/>
+    <tag k="name:nl" v="Kruidtuin"/>
+    <tag k="network" v="DLVB;IBXL"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301077"/>
+    <tag k="ref:STIB_MIVB" v="6435"/>
+    <tag k="route_ref" v="61;N04"/>
+    <tag k="route_ref:De_Lijn" v="270;271;272;470;620"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="492371119" version="15" timestamp="2021-09-08T09:21:59Z" uid="0" user="" lat="50.8530788" lon="4.3662913">
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Botanique - Kruidtuin"/>
+    <tag k="name:De_Lijn" v="Sint-Joost-Ten-Node Kruidtuin"/>
+    <tag k="name:fr" v="Botanique"/>
+    <tag k="name:nl" v="Kruidtuin"/>
+    <tag k="network" v="DLVB"/>
+    <tag k="operator" v="De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="358818"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="492430278" version="15" timestamp="2022-05-27T12:00:22Z" uid="0" user="" lat="50.8536327" lon="4.3656749">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Botanique - Kruidtuin"/>
+    <tag k="name:De_Lijn" v="Sint-Joost-Ten-Node Kruidtuin"/>
+    <tag k="name:fr" v="Botanique"/>
+    <tag k="name:nl" v="Kruidtuin"/>
+    <tag k="network" v="IBXL;DLVB"/>
+    <tag k="operator" v="STIB/MIVB;De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301079"/>
+    <tag k="ref:STIB_MIVB" v="6438"/>
+    <tag k="route_ref" v="N04"/>
+    <tag k="route_ref:De_Lijn" v="270;271;272;470;620"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="492462016" version="11" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8529217" lon="4.3779166">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Steurs"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6060"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="492462025" version="12" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8528233" lon="4.3780653">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Steurs"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6018"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="492469139" version="11" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8538708" lon="4.3807961">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Fuss"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6019"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="492469146" version="10" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8535918" lon="4.3806515">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Fuss"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6059"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="492472451" version="10" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8538913" lon="4.3831748">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Clays"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6020"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="492472453" version="11" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8539086" lon="4.3841598">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Clays"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6058"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="493151733" version="17" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8282765" lon="4.3718435">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Flagey"/>
+    <tag k="name:TEC" v="Ixelles Flagey"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3122"/>
+    <tag k="ref:TECB" v="Bixlfla2"/>
+    <tag k="route_ref" v="38;60"/>
+    <tag k="route_ref:TECB" v="366"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="493151734" version="14" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8281425" lon="4.3719365">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Flagey"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6112"/>
+    <tag k="route_ref" v="38;60"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="494808699" version="16" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8497937" lon="4.369683">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Madou"/>
+    <tag k="network" v="DLVB;IBXL"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301080"/>
+    <tag k="ref:STIB_MIVB" v="1571"/>
+    <tag k="route_ref" v="29;63;N05"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="494808705" version="15" timestamp="2022-05-26T11:09:09Z" uid="0" user="" lat="50.8499498" lon="4.369136">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Madou"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3355"/>
+    <tag k="route_ref" v="65;66"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="494808709" version="21" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8490492" lon="4.3698092">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="display" v="departures"/>
+    <tag k="display:type" v="overview"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Madou"/>
+    <tag k="network" v="IBXL;DLVB"/>
+    <tag k="operator" v="STIB/MIVB;De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="308819"/>
+    <tag k="ref:STIB_MIVB" v="1508"/>
+    <tag k="route_ref" v="29;63;N05"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="495102784" version="13" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.833053" lon="4.3746782">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Blyckaerts"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1909"/>
+    <tag k="route_ref" v="38;95;N08"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="495109477" version="9" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8197166" lon="4.3661661">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Van Eyck"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1913"/>
+    <tag k="route_ref" v="38"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="495109491" version="13" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.821379" lon="4.3666179">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Van Eyck"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1976"/>
+    <tag k="route_ref" v="38;60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="495113561" version="16" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8234648" lon="4.3678763">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Vleurgat"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1977"/>
+    <tag k="route_ref" v="38;60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="495113568" version="15" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8236276" lon="4.3675956">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Vleurgat"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1912"/>
+    <tag k="route_ref" v="38;60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="495116351" version="12" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8257541" lon="4.3697304">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Biarritz"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1986"/>
+    <tag k="route_ref" v="38;60;N10"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="495116369" version="12" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8258047" lon="4.3695866">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Biarritz"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1903"/>
+    <tag k="route_ref" v="38;60;N10"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="495120449" version="13" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8331223" lon="4.3748949">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Blyckaerts"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1981"/>
+    <tag k="route_ref" v="38;95;N08"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="495124385" version="9" timestamp="2022-05-26T14:01:29Z" uid="0" user="" lat="50.8299813" lon="4.3785601">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Germoir - Mouterij"/>
+    <tag k="name:fr" v="Germoir"/>
+    <tag k="name:nl" v="Mouterij"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4303"/>
+    <tag k="route_ref" v="95;N08"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="495124409" version="9" timestamp="2022-05-26T14:01:29Z" uid="0" user="" lat="50.8292309" lon="4.3797741">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Germoir - Mouterij"/>
+    <tag k="name:fr" v="Germoir"/>
+    <tag k="name:nl" v="Mouterij"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4366"/>
+    <tag k="route_ref" v="95;N08"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="495135551" version="10" timestamp="2022-05-26T14:01:29Z" uid="0" user="" lat="50.8274431" lon="4.3819887">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rodin"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4365"/>
+    <tag k="route_ref" v="95;N08"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="495135557" version="10" timestamp="2022-05-26T14:01:29Z" uid="0" user="" lat="50.8273843" lon="4.3817658">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rodin"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4304"/>
+    <tag k="route_ref" v="95;N08"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="495147300" version="10" timestamp="2022-05-26T14:01:29Z" uid="0" user="" lat="50.8242654" lon="4.3856804">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Delporte"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4305"/>
+    <tag k="route_ref" v="95;N08"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="495147398" version="11" timestamp="2022-05-26T14:01:29Z" uid="0" user="" lat="50.8243081" lon="4.3859133">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Delporte"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4364"/>
+    <tag k="route_ref" v="95;N08"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="495343464" version="10" timestamp="2022-04-21T13:03:46Z" uid="0" user="" lat="50.8203545" lon="4.3592747">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Lepoutre"/>
+    <tag k="name:De_Lijn" v="Elsene Lepoutrelaan"/>
+    <tag k="network" v="DLVB;TECB;TECC"/>
+    <tag k="operator" v="De Lijn;TEC"/>
+    <tag k="operator:wikidata" v="Q614819;Q366922"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="300905"/>
+    <tag k="ref:TECB" v="Bixllep2"/>
+    <tag k="ref:TECC" v="Cixlepo2"/>
+    <tag k="route_ref:De_Lijn" v="136"/>
+    <tag k="route_ref:TECB" v="W;123"/>
+    <tag k="route_ref:TECC" v="365a"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+    <tag k="zone:TEC" v="6221"/>
+  </node>
+  <node id="495343494" version="11" timestamp="2022-04-21T13:03:46Z" uid="0" user="" lat="50.8198779" lon="4.3599723">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lepoutre"/>
+    <tag k="name:De_Lijn" v="Elsene Lepoutrelaan"/>
+    <tag k="network" v="DLVB;TECB;TECC"/>
+    <tag k="network:wikidata" v="Q34803298;Q3512073;Q3512072"/>
+    <tag k="operator" v="De Lijn;TEC"/>
+    <tag k="operator:wikidata" v="Q614819;Q366922"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="300904"/>
+    <tag k="ref:TECB" v="Bixllep1"/>
+    <tag k="ref:TECC" v="Cixlepo1"/>
+    <tag k="route_ref:De_Lijn" v="136"/>
+    <tag k="route_ref:TECB" v="W;123"/>
+    <tag k="route_ref:TECC" v="365a"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+    <tag k="zone:TEC" v="6221"/>
+  </node>
+  <node id="495352804" version="13" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8224935" lon="4.3545108">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ma Campagne"/>
+    <tag k="name:De_Lijn" v="Sint-Gillis Ma Campagne"/>
+    <tag k="network" v="DLVB;IBXL;TECB;TECC"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301029"/>
+    <tag k="ref:STIB_MIVB" v="2932"/>
+    <tag k="ref:TECB" v="Bsgimca2"/>
+    <tag k="ref:TECC" v="Cbxcamp2"/>
+    <tag k="route_ref" v="54"/>
+    <tag k="route_ref:De_Lijn" v="136"/>
+    <tag k="route_ref:TECB" v="W;123"/>
+    <tag k="route_ref:TECC" v="365a"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="496241417" version="16" timestamp="2022-05-26T11:27:52Z" uid="0" user="" lat="50.8139807" lon="4.3846194">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="ULB"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3559"/>
+    <tag k="route_ref" v="71;N09"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="507039168" version="10" timestamp="2021-02-14T08:16:11Z" uid="0" user="" lat="50.8502464" lon="4.3803355">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Clovis"/>
+    <tag k="network" v="DLVB"/>
+    <tag k="operator" v="De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301074"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="507959441" version="16" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8496998" lon="4.3740972">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="display" v="departures"/>
+    <tag k="display:type" v="overview"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Saint-Josse - Sint-Joost"/>
+    <tag k="name:fr" v="Saint-Josse"/>
+    <tag k="name:nl" v="Sint-Joost"/>
+    <tag k="network" v="DLVB;IBXL"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="308874"/>
+    <tag k="ref:STIB_MIVB" v="1509"/>
+    <tag k="route_ref" v="29;63;N05"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="510615473" version="14" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8504532" lon="4.354122">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="De Brouckère"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2595"/>
+    <tag k="route_ref" v="29;71;89;N04;N05;N06;N08;N09;N10;N11;N12;N13;N16;N18"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="510619243" version="19" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8459054" lon="4.3579386">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="29;63;65;66;71;N11;N13"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6443"/>
+    <tag k="route_ref" v="38;N08;N09"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="510619244" version="21" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.845945" lon="4.357133">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="note" v="There are several stop posts, some with daytime routes (29;66;71) and some with Noctis routes (N04;N05;N06) but the operator considers this to be one single stop"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6447"/>
+    <tag k="route_ref" v="29;71;N04;N05;N06"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="510619624" version="12" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8465859" lon="4.3594034">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6442"/>
+    <tag k="route_ref" v="29;63;65;66;N04;N05"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="510623593" version="17" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8482082" lon="4.3563595">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Arenberg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2296"/>
+    <tag k="route_ref" v="29;71;89"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="510623599" version="15" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8491686" lon="4.3568891">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Arenberg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2301"/>
+    <tag k="route_ref" v="29;71;89;N04;N05;N06;N08;N09;N10;N11;N12;N13;N16;N18"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="512340290" version="16" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.8409538" lon="4.3743419">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trèves - Trier"/>
+    <tag k="name:TEC" v="Rue de Trêves"/>
+    <tag k="name:fr" v="Trèves"/>
+    <tag k="name:nl" v="Trier"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="not_served_by" v="12"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1132"/>
+    <tag k="ref:TECB" v="Bbxltrv2"/>
+    <tag k="route_ref" v="21;27;64"/>
+    <tag k="route_ref:TECB" v="543"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="513427250" version="18" timestamp="2022-05-25T18:30:55Z" uid="0" user="" lat="50.8389437" lon="4.3632813">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Porte de Namur - Naamsepoort"/>
+    <tag k="name:fr" v="Porte de Namur"/>
+    <tag k="name:nl" v="Naamsepoort"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1654"/>
+    <tag k="route_ref" v="64"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="530616054" version="15" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8217782" lon="4.3627129">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Washington"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6453"/>
+    <tag k="route_ref" v="60;N10"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="530616057" version="15" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8218364" lon="4.3637103">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Washington"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4705"/>
+    <tag k="route_ref" v="60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="530616830" version="11" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8200131" lon="4.359209">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Lepoutre"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6408"/>
+    <tag k="route_ref" v="60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="564893975" version="12" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8154473" lon="4.3670364">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Bascule"/>
+    <tag k="name:De_Lijn" v="Ukkel Bascule"/>
+    <tag k="network" v="DLVB;IBXL;TECB;TECC"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301107"/>
+    <tag k="ref:STIB_MIVB" v="1915"/>
+    <tag k="ref:TECB" v="Buccbas1"/>
+    <tag k="ref:TECC" v="Cucbasc1"/>
+    <tag k="route_ref" v="38"/>
+    <tag k="route_ref:De_Lijn" v="136"/>
+    <tag k="route_ref:TECB" v="W;123"/>
+    <tag k="route_ref:TECC" v="365a"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+    <tag k="zone:TEC" v="6221"/>
+  </node>
+  <node id="564893980" version="10" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8158724" lon="4.3670757">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Bascule"/>
+    <tag k="name:De_Lijn" v="Ukkel Bascule"/>
+    <tag k="network" v="IBXL;DLVB;TECC;TECB"/>
+    <tag k="operator" v="STIB/MIVB;De Lijn;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301108"/>
+    <tag k="ref:STIB_MIVB" v="1975"/>
+    <tag k="ref:TECB" v="Buccbas2"/>
+    <tag k="ref:TECC" v="Cucbasc2"/>
+    <tag k="route_ref" v="38"/>
+    <tag k="route_ref:De_Lijn" v="136"/>
+    <tag k="route_ref:TECB" v="W;123"/>
+    <tag k="route_ref:TECC" v="365a"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+    <tag k="zone:TEC" v="6221"/>
+  </node>
+  <node id="633332724" version="13" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8249711" lon="4.3800167">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Hôpital Etterbeek-Ixelles - Ziekenhuis Etterbeek-Elsene"/>
+    <tag k="name:fr" v="Hôpital Etterbeek-Ixelles"/>
+    <tag k="name:nl" v="Ziekenhuis Etterbeek-Elsene"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3125"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="703603383" version="13" timestamp="2022-05-27T11:18:56Z" uid="0" user="" lat="50.8490922" lon="4.3684333">
+    <tag k="access" v="no"/>
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Madou"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="9998"/>
+    <tag k="route_ref" v="29"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="704321074" version="11" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8486515" lon="4.3678639">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Presse - Drukpers"/>
+    <tag k="name:fr" v="Presse"/>
+    <tag k="name:nl" v="Drukpers"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3354"/>
+    <tag k="route_ref" v="29;63;65;66;N05"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="728374292" version="9" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8478073" lon="4.3635499">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Treurenberg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3353"/>
+    <tag k="route_ref" v="29;63;65;66;N05"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="843328979" version="17" timestamp="2022-05-26T11:09:09Z" uid="0" user="" lat="50.8499965" lon="4.3689686">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Madou"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3332"/>
+    <tag k="route_ref" v="65;66"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="1189927166" version="10" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8175159" lon="4.3664555">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Patton"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1914"/>
+    <tag k="route_ref" v="38"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="1365185790" version="14" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8515734" lon="4.3843544">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Vinçotte"/>
+    <tag k="name:De_Lijn" v="Schaarbeek Vinçotte"/>
+    <tag k="network" v="DLVB;IBXL"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301002"/>
+    <tag k="ref:STIB_MIVB" v="1567"/>
+    <tag k="route_ref" v="29"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="1365185791" version="15" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8515331" lon="4.3847773">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Vinçotte"/>
+    <tag k="name:De_Lijn" v="Schaarbeek Vinçotte"/>
+    <tag k="network" v="DLVB;IBXL"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="301001"/>
+    <tag k="ref:STIB_MIVB" v="1512"/>
+    <tag k="route_ref" v="29"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="1487034839" version="6" timestamp="2021-04-12T10:18:00Z" uid="0" user="" lat="50.8271932" lon="4.371399">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Flagey"/>
+    <tag k="name:TEC" v="Ixelles Flagey"/>
+    <tag k="network" v="TECB"/>
+    <tag k="operator" v="TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:TECB" v="Bixlfla1"/>
+    <tag k="route_ref:TECB" v="366"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="1631975626" version="15" timestamp="2022-05-26T11:27:52Z" uid="0" user="" lat="50.829752" lon="4.3698319">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Musée d&apos;Ixelles - Museum van Elsene"/>
+    <tag k="name:fr" v="Musée d&apos;Ixelles"/>
+    <tag k="name:nl" v="Museum van Elsene"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="5612"/>
+    <tag k="route_ref" v="71;N09;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1631975653" version="18" timestamp="2022-05-27T13:05:43Z" uid="0" user="" lat="50.8301093" lon="4.3693625">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Musée d&apos;Ixelles - Museum van Elsene"/>
+    <tag k="name:fr" v="Musée d&apos;Ixelles"/>
+    <tag k="name:nl" v="Museum van Elsene"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="5611"/>
+    <tag k="route_ref" v="71;N09;N10"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1786988545" version="11" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8198105" lon="4.3593422">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Lepoutre"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6406"/>
+    <tag k="route_ref" v="60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2177826381" version="11" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8542377" lon="4.3613454">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Saint-Louis"/>
+    <tag k="name:De_Lijn" v="Sint-Jan"/>
+    <tag k="network" v="IBXL;DLVB"/>
+    <tag k="note" v="STIB/MIVB calls it &quot;Saint-Louis&quot; (in French only ← based on University) and De Lijn calls it &quot;Sint-Jan&quot; (in Dutch only ← based on the hospital), this is not a mistake (official names as of May 2018)"/>
+    <tag k="operator" v="STIB/MIVB;De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="300867"/>
+    <tag k="ref:STIB_MIVB" v="1901"/>
+    <tag k="route_ref" v="61;N18"/>
+    <tag k="route_ref:De_Lijn" v="270;271;272;318;351;358;410;470;620"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="2203596142" version="12" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8172148" lon="4.3545077">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Georges Brugmann"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2122"/>
+    <tag k="route_ref" v="60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2298908163" version="7" timestamp="2022-04-21T13:03:47Z" uid="0" user="" lat="50.8176209" lon="4.3653299">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Patton"/>
+    <tag k="name:De_Lijn" v="Elsene Patton"/>
+    <tag k="network" v="DLVB;TECC;TECB"/>
+    <tag k="operator" v="De Lijn;TEC"/>
+    <tag k="operator:wikidata" v="Q614819;Q366922"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="300907"/>
+    <tag k="ref:TECB" v="Bixlpat2"/>
+    <tag k="ref:TECC" v="Cixpatt2"/>
+    <tag k="route_ref:De_Lijn" v="136"/>
+    <tag k="route_ref:TECB" v="W;123"/>
+    <tag k="route_ref:TECC" v="365a"/>
+    <tag k="shelter" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+    <tag k="zone:TEC" v="6221"/>
+  </node>
+  <node id="2298908165" version="9" timestamp="2022-04-21T13:03:48Z" uid="0" user="" lat="50.8177421" lon="4.3646409">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Patton"/>
+    <tag k="name:De_Lijn" v="Elsene Patton"/>
+    <tag k="network" v="DLVB;TECC;TECB"/>
+    <tag k="operator" v="De Lijn;TEC"/>
+    <tag k="operator:wikidata" v="Q614819;Q366922"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="300906"/>
+    <tag k="ref:TECB" v="Bixlpat1"/>
+    <tag k="ref:TECC" v="Cixpatt1"/>
+    <tag k="route_ref:De_Lijn" v="136"/>
+    <tag k="route_ref:TECB" v="W;123"/>
+    <tag k="route_ref:TECC" v="365a"/>
+    <tag k="shelter" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+    <tag k="zone:TEC" v="6221"/>
+  </node>
+  <node id="2341893350" version="8" timestamp="2021-12-19T17:23:37Z" uid="0" user="" lat="50.8229229" lon="4.3849403">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="fixme" v="Despite the location of this bus stop is confirmed on De Lijn’s official website there is no stop post here"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Kwartier Kroonlaan"/>
+    <tag k="network" v="DLLi"/>
+    <tag k="operator" v="De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="401413"/>
+    <tag k="route_ref:De_Lijn" v="178"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="2344415175" version="15" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8477517" lon="4.3814551">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Waterloo Wilson"/>
+    <tag k="name:De_Lijn" v="Brussel Waterloo-Wilson"/>
+    <tag k="network" v="IBXL;DLVB"/>
+    <tag k="operator" v="STIB/MIVB;De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="303650"/>
+    <tag k="ref:STIB_MIVB" v="3219"/>
+    <tag k="route_ref" v="29;63;N05"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="2346758046" version="9" timestamp="2022-05-25T16:08:25Z" uid="0" user="" lat="50.8555513" lon="4.3841835">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Bremer"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2106"/>
+    <tag k="route_ref" v="56"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2346758051" version="10" timestamp="2022-05-25T16:08:25Z" uid="0" user="" lat="50.8560435" lon="4.3834498">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Bremer"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2105"/>
+    <tag k="route_ref" v="56"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2346915874" version="10" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.849077" lon="4.3773795">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gutenberg"/>
+    <tag k="name:De_Lijn" v="Sint-Joost-ten-Node Gutenberg"/>
+    <tag k="network" v="DLVB;IBXL"/>
+    <tag k="operator" v="De Lijn;STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="306814"/>
+    <tag k="ref:STIB_MIVB" v="1569B"/>
+    <tag k="route_ref" v="29;59;63;N05"/>
+    <tag k="route_ref:De_Lijn" v="318;351;358;410"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="2498408244" version="13" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8436211" lon="4.3780428">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Maelbeek - Maalbeek"/>
+    <tag k="name:etymology:wikidata" v="Q506931"/>
+    <tag k="name:fr" v="Maelbeek"/>
+    <tag k="name:nl" v="Maalbeek"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6465"/>
+    <tag k="route_ref" v="59;64"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2509166323" version="11" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8329756" lon="4.3782188">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Natation - Zwemkunst"/>
+    <tag k="name:fr" v="Natation"/>
+    <tag k="name:nl" v="Zwemkunst"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3156"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2619430761" version="12" timestamp="2022-05-26T13:23:35Z" uid="0" user="" lat="50.8550346" lon="4.3575764">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rogier"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2830"/>
+    <tag k="route_ref" v="88"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2952816250" version="17" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.8401183" lon="4.382655">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Froissart"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="not_served_by" v="12;36;59"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1416"/>
+    <tag k="ref:TECB" v="Bbxlfro1"/>
+    <tag k="route_ref" v="21;36;60;N06"/>
+    <tag k="route_ref:TECB" v="543"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="2952816298" version="11" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.8431472" lon="4.3760651">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Toulouse"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="not_served_by" v="12"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1497B"/>
+    <tag k="ref:TECB" v="Bbxltou1"/>
+    <tag k="route_ref" v="21;27;64"/>
+    <tag k="route_ref:TECB" v="543"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="2954007601" version="2" timestamp="2014-11-23T21:33:18Z" uid="0" user="" lat="50.8165924" lon="4.3758413">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Abbaye de la Cambre - Abdij Ter Kameren"/>
+    <tag k="name:fr" v="Abbaye de la Cambre"/>
+    <tag k="name:nl" v="Abdij ter Kameren"/>
+    <tag k="network" v="TECB"/>
+    <tag k="operator" v="TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:TECB" v="Bixlaca2"/>
+    <tag k="route_ref:TECB" v="366"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="2954007602" version="2" timestamp="2014-11-23T21:33:18Z" uid="0" user="" lat="50.8166406" lon="4.3761445">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Abbaye de la Cambre - Abdij Ter Kameren"/>
+    <tag k="name:fr" v="Abbaye de la Cambre"/>
+    <tag k="name:nl" v="Abdij ter Kameren"/>
+    <tag k="network" v="TECB"/>
+    <tag k="operator" v="TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:TECB" v="Bixlaca1"/>
+    <tag k="route_ref:TECB" v="366"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="2954008334" version="16" timestamp="2022-05-26T11:27:52Z" uid="0" user="" lat="50.8236266" lon="4.3740985">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Étangs d&apos;Ixelles - Vijvers van Elsene"/>
+    <tag k="name:fr" v="Étangs d&apos;Ixelles"/>
+    <tag k="name:nl" v="Vijvers van Elsene"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3570"/>
+    <tag k="ref:TECB" v="Bixleix1"/>
+    <tag k="route_ref" v="71;N09"/>
+    <tag k="route_ref:TECB" v="366"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="tram" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="2954008335" version="6" timestamp="2019-04-25T09:15:47Z" uid="0" user="" lat="50.8230917" lon="4.3728375">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Étangs d&apos;Ixelles - Vijvers van Elsene"/>
+    <tag k="name:fr" v="Étangs d&apos;Ixelles"/>
+    <tag k="name:nl" v="Vijvers van Elsene"/>
+    <tag k="network" v="TECB"/>
+    <tag k="operator" v="TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:TECB" v="Bixleix2"/>
+    <tag k="route_ref:TECB" v="366"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:TEC" v="6220"/>
+  </node>
+  <node id="2962344136" version="15" timestamp="2022-06-04T16:25:48Z" uid="0" user="" lat="50.8202507" lon="4.3769998">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Géo Bernier"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3510;3510B"/>
+    <tag k="route_ref" v="71;N09"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="tram" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2962344137" version="15" timestamp="2022-06-01T13:35:00Z" uid="0" user="" lat="50.8207831" lon="4.3767062">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Géo Bernier"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3562;3562B"/>
+    <tag k="route_ref" v="71;N09"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="tram" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3121274346" version="10" timestamp="2022-06-04T14:55:16Z" uid="0" user="" lat="50.8265341" lon="4.3722458">
+    <tag k="access" v="no"/>
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="description" v="There is an ordinary post with a stop sign, but only a service stop: no bus or tram service here"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Flagey"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="9952G"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="tram" v="yes"/>
+  </node>
+  <node id="3121274347" version="10" timestamp="2022-05-27T12:28:01Z" uid="0" user="" lat="50.8281958" lon="4.3712145">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Flagey"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="71;N09"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3573"/>
+    <tag k="route_ref" v="N10"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="3188776798" version="10" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8436755" lon="4.3783506">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Maelbeek - Maalbeek"/>
+    <tag k="name:etymology:wikidata" v="Q506931"/>
+    <tag k="name:fr" v="Maelbeek"/>
+    <tag k="name:nl" v="Maalbeek"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6464"/>
+    <tag k="route_ref" v="59;64"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3202274133" version="9" timestamp="2022-05-25T18:27:34Z" uid="0" user="" lat="50.849054" lon="4.377168">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gutenberg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1510"/>
+    <tag k="route_ref" v="63;N05"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3202274134" version="8" timestamp="2022-05-25T18:05:41Z" uid="0" user="" lat="50.8491614" lon="4.3777583">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gutenberg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3100"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3202274137" version="6" timestamp="2022-05-25T18:05:41Z" uid="0" user="" lat="50.8501924" lon="4.3748153">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Saint-Josse - Sint-Joost"/>
+    <tag k="name:fr" v="Saint-Josse"/>
+    <tag k="name:nl" v="Sint-Joost"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1582"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="3257619428" version="12" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8326513" lon="4.3748683">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Blyckaerts"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1884"/>
+    <tag k="route_ref" v="60"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3257619429" version="9" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.833024" lon="4.3754145">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Blyckaerts"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1881"/>
+    <tag k="route_ref" v="60"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3257619430" version="12" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8309642" lon="4.3735673">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Malibran"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1910"/>
+    <tag k="route_ref" v="38;60"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3257619431" version="12" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8304861" lon="4.3734408">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Malibran"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1980"/>
+    <tag k="route_ref" v="38;60"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3257619432" version="12" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8341033" lon="4.3777801">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Varia"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1883"/>
+    <tag k="route_ref" v="60"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3257619433" version="10" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8344341" lon="4.3782822">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Varia"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1880"/>
+    <tag k="route_ref" v="60"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3560539026" version="10" timestamp="2022-05-25T16:18:35Z" uid="0" user="" lat="50.8557095" lon="4.358344">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rogier"/>
+    <tag k="name:De_Lijn" v="Brussel Rogier"/>
+    <tag k="network" v="IBXL;DLVB"/>
+    <tag k="operator" v="STIB/MIVB;De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="305448"/>
+    <tag k="ref:STIB_MIVB" v="1904"/>
+    <tag k="route_ref" v="58;61;88"/>
+    <tag k="route_ref:De_Lijn" v="126;127;128;129;212;213;214;230;231;232;240;241;242;243;245;250;251;260;270;271;272;318;351;355;358;410;460;461;470"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+  <node id="3928182506" version="17" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.8401199" lon="4.3739023">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Luxembourg - Luxemburg"/>
+    <tag k="name:fr" v="Luxembourg"/>
+    <tag k="name:nl" v="Luxemburg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1262B"/>
+    <tag k="route_ref" v="21;27"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="3984871907" version="14" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8283217" lon="4.3730111">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Flagey"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1280B"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4052047249" version="13" timestamp="2022-05-25T11:52:11Z" uid="0" user="" lat="50.8420149" lon="4.3541988">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Grand Sablon - Grote Zavel"/>
+    <tag k="name:fr" v="Grand Sablon"/>
+    <tag k="name:nl" v="Grote Zavel"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3630"/>
+    <tag k="route_ref" v="33;48;95"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4052047253" version="16" timestamp="2022-05-26T13:48:31Z" uid="0" user="" lat="50.8434912" lon="4.3543944">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Bibliothèque - Bibliotheek"/>
+    <tag k="name:fr" v="Bibliothèque"/>
+    <tag k="name:nl" v="Bibliotheek"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2268"/>
+    <tag k="route_ref" v="95"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4052047254" version="16" timestamp="2022-05-26T13:48:31Z" uid="0" user="" lat="50.8418097" lon="4.3539745">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Grand Sablon - Grote Zavel"/>
+    <tag k="name:fr" v="Grand Sablon"/>
+    <tag k="name:nl" v="Grote Zavel"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1703"/>
+    <tag k="route_ref" v="95"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4059870739" version="13" timestamp="2022-05-25T11:20:54Z" uid="0" user="" lat="50.8455361" lon="4.3579713">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2787"/>
+    <tag k="route_ref" v="52;N13;N16"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4060017166" version="15" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8458418" lon="4.3572989">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="38;71;N08:N09"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6445"/>
+    <tag k="route_ref" v="29;63;65;66;N11;N13"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4060017167" version="16" timestamp="2022-05-26T11:22:21Z" uid="0" user="" lat="50.8458701" lon="4.3575696">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="29;38;63;65;66;N08;N09;N11;N13"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6444"/>
+    <tag k="route_ref" v="71"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4060017169" version="16" timestamp="2022-05-26T13:44:43Z" uid="0" user="" lat="50.8465824" lon="4.3572184">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="38;52;65;N08:N09;N11;N12;N13;N16"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3347"/>
+    <tag k="route_ref" v="89;N10;N18"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4060017170" version="14" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8463656" lon="4.3580176">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="63;65;86;N08;N09;N10;N11;N13;N18"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1794;3323"/>
+    <tag k="route_ref" v="38;N12;N16"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4060017171" version="13" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8473478" lon="4.3614101">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="departures_board" v="realtime"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rosa Parks"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3072"/>
+    <tag k="route_ref" v="29;63;65;66"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4060017172" version="15" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8474125" lon="4.3613335">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="departures_board" v="realtime"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rosa Parks"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3062"/>
+    <tag k="route_ref" v="29;63;65;66;N04;N05"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4060017173" version="7" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8476446" lon="4.3635789">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Treurenberg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3359"/>
+    <tag k="route_ref" v="29;63;65;66;N05"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4060017174" version="11" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8479911" lon="4.3677878">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Presse - Drukpers"/>
+    <tag k="name:fr" v="Presse"/>
+    <tag k="name:nl" v="Drukpers"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3358"/>
+    <tag k="route_ref" v="29;63;65;66;N05"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4060118093" version="11" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8442043" lon="4.3590833">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Bozar"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3502"/>
+    <tag k="route_ref" v="38;71"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4060118094" version="14" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8425634" lon="4.3588329">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Royale - Koning"/>
+    <tag k="name:fr" v="Royale"/>
+    <tag k="name:nl" v="Koning"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3503"/>
+    <tag k="route_ref" v="38;71"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4060118096" version="10" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8426834" lon="4.3589995">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Royale - Koning"/>
+    <tag k="name:fr" v="Royale"/>
+    <tag k="name:nl" v="Koning"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3567"/>
+    <tag k="route_ref" v="38;71;N06;N08;N09;N10;N11;N12"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4060118097" version="9" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8377491" lon="4.361937">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Porte de Namur - Naamsepoort"/>
+    <tag k="name:fr" v="Porte de Namur"/>
+    <tag k="name:nl" v="Naamsepoort"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3518B"/>
+    <tag k="route_ref" v="54;71;N09;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4060118099" version="10" timestamp="2021-07-24T15:24:53Z" uid="0" user="" lat="50.8390222" lon="4.3722484">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Luxembourg - Luxemburg"/>
+    <tag k="name:fr" v="Luxembourg"/>
+    <tag k="name:nl" v="Luxemburg"/>
+    <tag k="network" v="TECB"/>
+    <tag k="operator" v="TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="route_ref:TECB" v="543"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4068031223" version="17" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8393589" lon="4.3641082">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Porte de Namur - Naamsepoort"/>
+    <tag k="name:fr" v="Porte de Namur"/>
+    <tag k="name:nl" v="Naamsepoort"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1824"/>
+    <tag k="route_ref" v="34;80;N06;N08;N11"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4068949909" version="11" timestamp="2022-05-26T13:23:35Z" uid="0" user="" lat="50.8531911" lon="4.3552812">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="De Brouckère"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2828"/>
+    <tag k="route_ref" v="88"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4069961505" version="11" timestamp="2022-05-26T13:23:35Z" uid="0" user="" lat="50.8526019" lon="4.3538911">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="De Brouckère"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2838"/>
+    <tag k="route_ref" v="88"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4070209590" version="10" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8546852" lon="4.3688813">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="separate"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rue Traversière - Dwarsstraat"/>
+    <tag k="name:fr" v="Rue Traversière"/>
+    <tag k="name:nl" v="Dwarsstraat"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6062"/>
+    <tag k="route_ref" v="61;65;66"/>
+    <tag k="shelter" v="separate"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4070299001" version="12" timestamp="2022-05-25T11:20:54Z" uid="0" user="" lat="50.8432079" lon="4.3543143">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Madeleine - Magdalena"/>
+    <tag k="name:fr" v="Madeleine"/>
+    <tag k="name:nl" v="Magdalena"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2840"/>
+    <tag k="route_ref" v="52;N13;N16"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4095199587" version="10" timestamp="2022-05-26T11:09:09Z" uid="0" user="" lat="50.855161" lon="4.3690137">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="separate"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rue Traversière - Dwarsstraat"/>
+    <tag k="name:fr" v="Rue Traversière"/>
+    <tag k="name:nl" v="Dwarsstraat"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="9064"/>
+    <tag k="route_ref" v="65;66"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4102257217" version="13" timestamp="2022-05-25T11:52:11Z" uid="0" user="" lat="50.8413721" lon="4.3534036">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Grand Sablon - Grote Zavel"/>
+    <tag k="name:fr" v="Grand Sablon"/>
+    <tag k="name:nl" v="Grote Zavel"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="48"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1376B"/>
+    <tag k="route_ref" v="33;N04;N05;N06;N08;N09;N10;N11;N12"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4102257218" version="13" timestamp="2022-05-25T11:52:11Z" uid="0" user="" lat="50.8399649" lon="4.3557559">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Petit Sablon - Kleine Zavel"/>
+    <tag k="name:fr" v="Petit Sablon"/>
+    <tag k="name:nl" v="Kleine Zavel"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1128"/>
+    <tag k="route_ref" v="33;95;N04;N05;N06;N08;N09;N10;N11;N12"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4102390235" version="10" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.8403277" lon="4.3786189">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Parc Léopold - Leopoldspark"/>
+    <tag k="name:fr" v="Parc Léopold"/>
+    <tag k="name:nl" v="Leopoldspark"/>
+    <tag k="network" v="IBXL;TECB"/>
+    <tag k="not_served_by" v="12"/>
+    <tag k="operator" v="STIB/MIVB;TEC"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1133"/>
+    <tag k="route_ref" v="21;27"/>
+    <tag k="route_ref:TECB" v="543"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4102390236" version="9" timestamp="2022-05-25T11:36:19Z" uid="0" user="" lat="50.8393079" lon="4.3865149">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Nerviens - Nerviërs"/>
+    <tag k="name:fr" v="Nerviens"/>
+    <tag k="name:nl" v="Nerviërs"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1134"/>
+    <tag k="route_ref" v="27;N06"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4102390242" version="10" timestamp="2022-05-25T11:36:19Z" uid="0" user="" lat="50.8395653" lon="4.3860871">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Nerviens - Nerviërs"/>
+    <tag k="name:fr" v="Nerviens"/>
+    <tag k="name:nl" v="Nerviërs"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1158"/>
+    <tag k="route_ref" v="27;N06"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4102390243" version="10" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.8405045" lon="4.3819784">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Froissart"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="12"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1476"/>
+    <tag k="route_ref" v="21;27;59"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4102390244" version="11" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.8422209" lon="4.3747727">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trèves - Trier"/>
+    <tag k="name:fr" v="Trèves"/>
+    <tag k="name:nl" v="Trier"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="12"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1160"/>
+    <tag k="route_ref" v="21;27;64"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4102459565" version="11" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8351198" lon="4.3639246">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Quartier Saint-Boniface - Sint-Bonifaaswijk"/>
+    <tag k="name:fr" v="Quartier Saint-Boniface"/>
+    <tag k="name:nl" v="Sint-Bonifaaswijk"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3506"/>
+    <tag k="route_ref" v="54;71;N09;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4102459567" version="12" timestamp="2022-05-26T11:27:52Z" uid="0" user="" lat="50.8242013" lon="4.3733193">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Étangs d&apos;Ixelles - Vijvers van Elsene"/>
+    <tag k="name:fr" v="Étangs d&apos;Ixelles"/>
+    <tag k="name:nl" v="Vijvers van Elsene"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3517"/>
+    <tag k="route_ref" v="71;N09"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="tram" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4102459568" version="12" timestamp="2022-05-26T11:27:52Z" uid="0" user="" lat="50.8188218" lon="4.3789397">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Buyl"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2351"/>
+    <tag k="route_ref" v="71;N09"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4102459570" version="11" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8353933" lon="4.3638321">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Quartier Saint-Boniface - Sint-Bonifaaswijk"/>
+    <tag k="name:fr" v="Quartier Saint-Boniface"/>
+    <tag k="name:nl" v="Sint-Bonifaaswijk"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2964B"/>
+    <tag k="route_ref" v="54;71;N09;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4105909923" version="11" timestamp="2022-05-26T11:38:48Z" uid="0" user="" lat="50.813818" lon="4.3846277">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="ULB"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="71;N09"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3513"/>
+    <tag k="route_ref" v="72"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4111314238" version="14" timestamp="2022-05-25T10:27:38Z" uid="0" user="" lat="50.8414616" lon="4.364923">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trône - Troon"/>
+    <tag k="name:fr" v="Trône"/>
+    <tag k="name:nl" v="Troon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="38;71;95;N11"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1780"/>
+    <tag k="route_ref" v="12;54"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4111314239" version="17" timestamp="2022-05-25T12:21:53Z" uid="0" user="" lat="50.8412224" lon="4.3649555">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trône - Troon"/>
+    <tag k="name:fr" v="Trône"/>
+    <tag k="name:nl" v="Troon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="12;54;71"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1124"/>
+    <tag k="route_ref" v="38;95;N11"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4111366138" version="11" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8298136" lon="4.3639449">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Vanne - Verlaat"/>
+    <tag k="name:fr" v="Vanne"/>
+    <tag k="name:nl" v="Verlaat"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2962"/>
+    <tag k="route_ref" v="54"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4111681950" version="14" timestamp="2022-06-01T01:31:02Z" uid="0" user="" lat="50.8395182" lon="4.3713813">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Luxembourg - Luxemburg"/>
+    <tag k="name:fr" v="Luxembourg"/>
+    <tag k="name:nl" v="Luxemburg"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="12;34;38;64;80;95"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4370"/>
+    <tag k="route_ref" v="BM"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4111681952" version="14" timestamp="2022-06-01T07:30:36Z" uid="0" user="" lat="50.8456436" lon="4.3780538">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Marie-Louise - Maria-Louiza"/>
+    <tag k="name:fr" v="Marie-Louise"/>
+    <tag k="name:nl" v="Maria-Louiza"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3081"/>
+    <tag k="route_ref" v="59;64"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4123389333" version="7" timestamp="2022-05-25T18:30:55Z" uid="0" user="" lat="50.8409847" lon="4.3782085">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Parc Léopold - Leopoldspark"/>
+    <tag k="name:fr" v="Parc Léopold"/>
+    <tag k="name:nl" v="Leopoldspark"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2927"/>
+    <tag k="route_ref" v="64"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4123389334" version="9" timestamp="2022-05-25T16:08:25Z" uid="0" user="" lat="50.8492448" lon="4.3856236">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Luther"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6082"/>
+    <tag k="route_ref" v="56;64"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4133470849" version="9" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8278135" lon="4.3765106">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Levure - Gist"/>
+    <tag k="name:fr" v="Levure"/>
+    <tag k="name:nl" v="Gist"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3131"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4149415301" version="10" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.846223" lon="4.3841277">
+    <tag k="access" v="no"/>
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ambiorix"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="note" v="There is an ordinary post with a stop sign, but only a service stop: passengers cannot board or disembark here"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1425"/>
+    <tag k="route_ref" v="60"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4149415303" version="10" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8406275" lon="4.3826441">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Froissart"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="12;21"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1271B"/>
+    <tag k="route_ref" v="60;N06"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4149415304" version="9" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.837512" lon="4.3802845">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Jourdan"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3921"/>
+    <tag k="route_ref" v="59;60;80;N06"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4149492881" version="10" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8140034" lon="4.3562585">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Marie Depage"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2846"/>
+    <tag k="route_ref" v="60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4149647184" version="10" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8143825" lon="4.3561999">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Marie Depage"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2847"/>
+    <tag k="route_ref" v="60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4149647186" version="10" timestamp="2022-05-25T18:13:04Z" uid="0" user="" lat="50.8167425" lon="4.3550165">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Georges Brugmann"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2134"/>
+    <tag k="route_ref" v="60;N10"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4155530762" version="9" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8293569" lon="4.3761999">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Wery"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3155"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4155530763" version="9" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8332342" lon="4.3782977">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Natation - Zwemkunst"/>
+    <tag k="name:fr" v="Natation"/>
+    <tag k="name:nl" v="Zwemkunst"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3120"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4155530764" version="8" timestamp="2022-05-25T16:24:29Z" uid="0" user="" lat="50.8294414" lon="4.3761746">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Wery"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3121B"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4207752175" version="12" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8541362" lon="4.3692038">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rue Traversière - Dwarsstraat"/>
+    <tag k="name:fr" v="Rue Traversière"/>
+    <tag k="name:nl" v="Dwarsstraat"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="9023B"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4207752179" version="10" timestamp="2022-05-25T18:05:41Z" uid="0" user="" lat="50.8530478" lon="4.3734799">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Houwaert"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6017"/>
+    <tag k="route_ref" v="59;61"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4207776736" version="8" timestamp="2022-05-25T18:24:32Z" uid="0" user="" lat="50.8538632" lon="4.3732695">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Bossuet"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6061"/>
+    <tag k="route_ref" v="61"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4215160361" version="9" timestamp="2022-05-26T10:57:34Z" uid="0" user="" lat="50.8463868" lon="4.3572987">
+    <tag k="access" v="no"/>
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="note" v="There is an ordinary post with a stop sign, but only a service stop: passengers cannot board or disembark here"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3348"/>
+    <tag k="route_ref" v="63;65;66"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4241145718" version="9" timestamp="2022-05-25T18:05:41Z" uid="0" user="" lat="50.8531259" lon="4.3735939">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Houwaert"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3162"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4241145738" version="8" timestamp="2022-05-25T18:05:41Z" uid="0" user="" lat="50.853898" lon="4.3734747">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Bossuet"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3114"/>
+    <tag k="route_ref" v="59"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4243076689" version="10" timestamp="2022-05-27T12:59:44Z" uid="0" user="" lat="50.8362202" lon="4.3796321">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="description" v="This stop only has limited service (typically when buses are re-routed during Sunday market or other events on pl. Jourdanplein, as well as night buses)"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Jourdan"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3922"/>
+    <tag k="route_ref" v="59;60;80;N06"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4295327843" version="8" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.8298261" lon="4.3642623">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Vanne - Verlaat"/>
+    <tag k="name:fr" v="Vanne"/>
+    <tag k="name:nl" v="Verlaat"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2929"/>
+    <tag k="route_ref" v="54"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="4531707399" version="8" timestamp="2022-05-27T12:28:01Z" uid="0" user="" lat="50.8282019" lon="4.3710458">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Flagey"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="71;N09"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3519"/>
+    <tag k="route_ref" v="N10"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4968533710" version="7" timestamp="2022-05-27T13:01:38Z" uid="0" user="" lat="50.8358749" lon="4.3560127">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Louise - Louiza"/>
+    <tag k="name:fr" v="Louise"/>
+    <tag k="name:nl" v="Louiza"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1726"/>
+    <tag k="route_ref" v="N06;N08;N09;N10;N11"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4969985580" version="7" timestamp="2022-05-27T12:32:26Z" uid="0" user="" lat="50.8350397" lon="4.3557548">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Louise - Louiza"/>
+    <tag k="name:fr" v="Louise"/>
+    <tag k="name:nl" v="Louiza"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3624B"/>
+    <tag k="route_ref" v="N11"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4969986111" version="7" timestamp="2022-05-25T11:52:11Z" uid="0" user="" lat="50.8362334" lon="4.3554995">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Louise - Louiza"/>
+    <tag k="name:fr" v="Louise"/>
+    <tag k="name:nl" v="Louiza"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="N11"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2177"/>
+    <tag k="route_ref" v="33;N06;N08;N09;N10"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="5327600310" version="9" timestamp="2022-05-26T11:27:52Z" uid="0" user="" lat="50.8152717" lon="4.3837871">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Jeanne - Johanna"/>
+    <tag k="name:fr" v="Jeanne"/>
+    <tag k="name:nl" v="Johanna"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="8;25"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3525"/>
+    <tag k="route_ref" v="71;N09"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="5329034211" version="7" timestamp="2022-05-27T12:32:26Z" uid="0" user="" lat="50.8326526" lon="4.3567589">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Stéphanie - Stefania"/>
+    <tag k="name:fr" v="Stéphanie"/>
+    <tag k="name:nl" v="Stefania"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="5017"/>
+    <tag k="route_ref" v="N11"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5329034213" version="7" timestamp="2022-05-27T12:32:26Z" uid="0" user="" lat="50.8327223" lon="4.3569835">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Stéphanie - Stefania"/>
+    <tag k="name:fr" v="Stéphanie"/>
+    <tag k="name:nl" v="Stefania"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="5067"/>
+    <tag k="route_ref" v="N11"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5335213892" version="4" timestamp="2022-05-27T12:00:22Z" uid="0" user="" lat="50.8559137" lon="4.3669893">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gillon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="5735"/>
+    <tag k="route_ref" v="N04"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5335213895" version="4" timestamp="2022-05-27T12:00:22Z" uid="0" user="" lat="50.8558644" lon="4.3672163">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gillon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="6359"/>
+    <tag k="route_ref" v="N04"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5345287414" version="5" timestamp="2022-05-27T12:32:26Z" uid="0" user="" lat="50.8239024" lon="4.3534357">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ma Campagne"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3625B"/>
+    <tag k="route_ref" v="N11"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5363220871" version="4" timestamp="2022-05-27T12:55:26Z" uid="0" user="" lat="50.8499402" lon="4.3603112">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="de Berlaimont"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2221"/>
+    <tag k="route_ref" v="N18"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5375595782" version="4" timestamp="2022-05-27T12:07:39Z" uid="0" user="" lat="50.8379978" lon="4.36886">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Londres - Londen"/>
+    <tag k="name:fr" v="Londres"/>
+    <tag k="name:nl" v="Londen"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3623B"/>
+    <tag k="route_ref" v="N06;N08"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5375595783" version="4" timestamp="2022-05-27T12:07:39Z" uid="0" user="" lat="50.8379336" lon="4.3687008">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Londres - Londen"/>
+    <tag k="name:fr" v="Londres"/>
+    <tag k="name:nl" v="Londen"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3620B"/>
+    <tag k="route_ref" v="N06;N08"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5429387237" version="5" timestamp="2022-06-03T09:27:27Z" uid="0" user="" lat="50.8411096" lon="4.3847328">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Breydel"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="1417B"/>
+    <tag k="route_ref" v="N06"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5644291838" version="4" timestamp="2022-05-25T11:52:11Z" uid="0" user="" lat="50.8389997" lon="4.3614281">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Porte de Namur - Naamsepoort"/>
+    <tag k="name:fr" v="Porte de Namur"/>
+    <tag k="name:nl" v="Naamsepoort"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3505"/>
+    <tag k="route_ref" v="33"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="5648526329" version="7" timestamp="2022-05-25T11:52:11Z" uid="0" user="" lat="50.8378945" lon="4.3534985">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Poelaert"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="N06;N08;N09;N10"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="3629"/>
+    <tag k="route_ref" v="33"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="5808950715" version="6" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8506408" lon="4.3530564">
+    <tag k="access" v="no"/>
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="De Brouckère"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="71;86;N04;N05;N06;N08;N09;N10;N11;N12;N13;N16;N18"/>
+    <tag k="note" v="There is an ordinary post with a stop sign, but only a service stop: passengers cannot board or disembark here"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2594"/>
+    <tag k="route_ref" v="29"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="6442766243" version="8" timestamp="2022-05-25T11:58:39Z" uid="0" user="" lat="50.8388514" lon="4.3631017">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Porte de Namur - Naamsepoort"/>
+    <tag k="name:fr" v="Porte de Namur"/>
+    <tag k="name:nl" v="Naamsepoort"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="4952"/>
+    <tag k="route_ref" v="34;64;80"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6746726502" version="6" timestamp="2022-05-25T11:30:22Z" uid="0" user="" lat="50.8436542" lon="4.3839597">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Schuman"/>
+    <tag k="name:etymology:wikidata" v="Q1837926"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="operator:wikidata" v="Q1631655"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2083"/>
+    <tag k="route_ref" v="21;56;79"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="6939283957" version="9" timestamp="2022-05-25T15:51:45Z" uid="0" user="" lat="50.840554" lon="4.3649412">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trône - Troon"/>
+    <tag k="name:fr" v="Trône"/>
+    <tag k="name:nl" v="Troon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2948"/>
+    <tag k="route_ref" v="54;71"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7673016985" version="7" timestamp="2022-01-25T02:13:18Z" uid="0" user="" lat="50.8470461" lon="4.3566707">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:en" v="Central Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="Tootbus"/>
+    <tag k="operator" v="Tootbus"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="route_ref:Tootbus" v="Red;Blue"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8594889503" version="3" timestamp="2022-05-25T16:08:25Z" uid="0" user="" lat="50.8460401" lon="4.383781">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ambiorix"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2068"/>
+    <tag k="route_ref" v="56;60"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8864473063" version="3" timestamp="2022-05-25T11:48:24Z" uid="0" user="" lat="50.8505714" lon="4.3811746">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Clovis"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2680"/>
+    <tag k="route_ref" v="29"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8882416105" version="3" timestamp="2022-05-27T12:07:39Z" uid="0" user="" lat="50.8402075" lon="4.3655728">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trône - Troon"/>
+    <tag k="name:fr" v="Trône"/>
+    <tag k="name:nl" v="Troon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="not_served_by" v="34;64;80;N11"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2681"/>
+    <tag k="route_ref" v="N06;N08"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8882416107" version="3" timestamp="2022-05-27T12:07:39Z" uid="0" user="" lat="50.84012" lon="4.3661895">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Trône - Troon"/>
+    <tag k="name:fr" v="Trône"/>
+    <tag k="name:nl" v="Troon"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2682"/>
+    <tag k="route_ref" v="N06;N08"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9023951467" version="2" timestamp="2022-05-25T11:20:54Z" uid="0" user="" lat="50.8471787" lon="4.3578297">
+    <tag k="access" v="no"/>
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="note" v="There is an ordinary post with a stop sign, but only a service stop: passengers cannot board or disembark here"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2713"/>
+    <tag k="route_ref" v="52"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9029986874" version="3" timestamp="2022-05-25T11:20:54Z" uid="0" user="" lat="50.8455116" lon="4.3575853">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Gare Centrale - Centraal Station"/>
+    <tag k="name:fr" v="Gare Centrale"/>
+    <tag k="name:nl" v="Centraal Station"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2788"/>
+    <tag k="route_ref" v="52"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9046238520" version="3" timestamp="2022-05-25T11:20:54Z" uid="0" user="" lat="50.8439934" lon="4.3552527">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Madeleine - Magdalena"/>
+    <tag k="name:fr" v="Madeleine"/>
+    <tag k="name:nl" v="Magdalena"/>
+    <tag k="network" v="IBXL"/>
+    <tag k="operator" v="STIB/MIVB"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:STIB_MIVB" v="2739"/>
+    <tag k="route_ref" v="52"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9514142070" version="1" timestamp="2022-02-17T15:08:51Z" uid="0" user="" lat="50.8540749" lon="4.3538388">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Pont-Neuf - Nieuwbrug"/>
+    <tag k="name:De_Lijn" v="Brussel Nieuwbrug"/>
+    <tag k="name:fr" v="Pont-Neuf"/>
+    <tag k="name:nl" v="Nieuwbrug"/>
+    <tag k="network" v="DLVB"/>
+    <tag k="operator" v="De Lijn"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:De_Lijn" v="307918"/>
+    <tag k="route_ref:De_Lijn" v="126;127;128"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="zone:De_Lijn" v="20"/>
+  </node>
+</osm>
