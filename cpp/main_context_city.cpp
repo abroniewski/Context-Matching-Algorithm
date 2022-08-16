@@ -10,7 +10,6 @@
 #include <iomanip>
 */
 
-#include "detection_mode.hpp"
 #include "context.hpp"
 #include "io.hpp"
 #include "class.hpp"
