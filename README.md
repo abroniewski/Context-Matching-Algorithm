@@ -108,7 +108,7 @@ python3 python/affichagev2.py output.txt
 ```
 # Context Matching : city user
 ## Set up
-All the set up can be done in the ```main_context_city.cpp`` file :
+All the set up can be done in the ```main_context_city.cpp``` file :
 
 To compute or not the smoothing process, comment or not the line 38
 

@@ -45,7 +45,7 @@ int main(){
     int deb=time(nullptr);
     states=process_tram(states,roads.roads);
     cout<<"temps "<<time(nullptr)-deb<<endl;
-    //vector<state> states=particle_filter(obs2,10,roads);
+    
     vector<point> marche;
     vector<point> tram;
     for(int i=0;i<states.size();++i){
