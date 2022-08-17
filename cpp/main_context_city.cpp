@@ -114,7 +114,6 @@ int main(){
     }
     vector<point> nul;
     write("output.txt",roads,marche,tram,station);
-    //write_boat("output.txt",nul,nul,marche,tram,10,10);
     write_to_json("outputjson.txt",outputJson,contexte,colorChoice);
     
 

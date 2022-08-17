@@ -3,7 +3,7 @@
 #include "class.hpp"
 
 //void write_road(fstream fichier, line road);
-roadNetwork read(const char *filename);
+roadNetwork read(const char *filename, int roads);
 
 vector<point> read_gpx(const char *filename);
 vector<point> read_stops(const char *filename);
@@ -14,7 +14,7 @@ void write_boat(const char *filename,vector<point> sailing ,vector<point> fishin
 void write_boatv2(const char *filename,vector<point> sailing_1 ,vector<point> fishing,vector<point> sailing_2,vector<point> match_sail, vector<point> match_fish,vector<point> match_sailing_2, vector<int> rightwrong);
 //void write_gps(fstream fichier, point z);
 
-vector<observation> read_csv(const char *filename,int lat, int lon,int time);
+vector<observation> read_csv(const char *filename,int lat, int lon,int time,int GC);
 vector<int> read_label(const char *filename,int label);
 
 #endif

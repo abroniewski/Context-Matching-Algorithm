@@ -1,5 +1,4 @@
 #include "class.hpp"
-#include "dijkstra.hpp"
 #include <iostream>
 #include <vector>
 #include <cmath>

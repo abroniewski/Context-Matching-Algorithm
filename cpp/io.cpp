@@ -54,7 +54,7 @@ vector<string> split(const string &chaine, char delimiteur)
 }
 
 
-roadNetwork read(const char *filename){
+roadNetwork read(const char *filename, int roads){
     cout<<"debut"<<endl;
     ifstream fichier;
     string word; 
@@ -164,10 +164,12 @@ roadNetwork read(const char *filename){
                     }
                     if(T[4].compare("<tag" )==0){
                         I=split(T[3],':');
-                        //if(T[5].compare("k=\"highway\"")==0){
-                        if(T[5].compare("k=\"railway\"")==0){
+                        if(T[5].compare("k=\"highway\"")==0 &&  roads==1){
+                        
                             street=true;
 
+                        }else if(T[5].compare("k=\"railway\"")==0 && roads==0){
+                            street=true;
                         }
 
                     }
@@ -319,7 +321,7 @@ void write_to_json(const char *filename, vector<point> points, vector<int> type,
     fichier.close();
 }
 
-vector<observation> read_csv(const char *filename,int lat, int lon,int time){
+vector<observation> read_csv(const char *filename,int lat, int lon,int time, int GC){
     ifstream fichier;
     fichier.open(filename);
     vector<observation> gpxpoint;
@@ -347,8 +349,13 @@ vector<observation> read_csv(const char *filename,int lat, int lon,int time){
                 vector<string> J=split(I[1],':');
                 int t=3600*24*stoi(K[2])+3600*stoi(J[0]) + 60*stoi(J[1]) + stoi(J[2]);
                 //A changer si on veut etre en metres / GC
-                //gpxpoint.push_back(observation(z,t));
-                gpxpoint.push_back(observation(GC_to_meters(point(x,y),point(4.36,50.84)),t));
+                if(GC==0){
+                    gpxpoint.push_back(observation(z,t));
+                }else{
+                    gpxpoint.push_back(observation(GC_to_meters(point(x,y),point(4.36,50.84)),t));
+
+                }
+                
                 
             }else{
                 cout<<"x : "<<x<<" y :"<<y<<endl;

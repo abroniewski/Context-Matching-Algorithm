@@ -84,11 +84,11 @@ vector<state> viterbi(roadNetwork R, vector<vector<state>> candidates, vector<po
 }
 
 
-vector<vector<state>>  matching1(roadNetwork R, vector<point> traj){
+vector<vector<state>>  matching1(roadNetwork R, vector<point> traj, int k){
     vector<vector<state>> states_graph;
     //vector<state> C;
     for(int i=0;i<traj.size();++i){
-        states_graph.push_back(KNN(box(R,traj[i],75),traj[i],8));
+        states_graph.push_back(KNN(box(R,traj[i],75),traj[i],k));
         //box(R,traj[i],0.005);
         cout<<"step : "<<i<<" done"<<endl;
     }

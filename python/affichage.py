@@ -54,11 +54,11 @@ def readplot(filename):
     for i in range(0,len(road)//2):
         plt.plot(road[2*i],road[2*i+1],color="blue")
     for i in range(0,len(obs)//2):
-        plt.plot(obs[2*i],obs[2*i+1],color="red",marker="o",linestyle='None', markersize=1,markerfacecolor="red")
+        plt.plot(obs[2*i],obs[2*i+1],color="red",marker="o",linestyle='None', markersize=6,markerfacecolor="red")
     for i in range(0,len(match)//2):
-        plt.plot(match[2*i],match[2*i+1],color="yellow",marker="x",linestyle='None', markersize=4,markerfacecolor="yellow")
+        plt.plot(match[2*i],match[2*i+1],color="green",marker="o",linestyle='None', markersize=6,markerfacecolor="green")
     for i in range(0,len(bus)//2):
-        plt.plot(bus[2*i],bus[2*i+1],color="green",marker="x",linestyle='None', markersize=6,markerfacecolor="green")
+        plt.plot(bus[2*i],bus[2*i+1],color="yellow",marker="x",linestyle='None', markersize=6,markerfacecolor="yellow")
 
     #ax.fill(*ListePolygones)
     plt.axis("equal")
