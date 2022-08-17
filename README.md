@@ -157,18 +157,3 @@ https://geojson.io/#map=2/20.0/0.0
 The result will be similar as the figures in the report, with in addition the pink points representing the stations.
 
 
-## commandes à executer sous windows :
-
-```bash
-for($i=1; $i -lt 30; $i=$i+1){ .\a.exe ..\traj\${i}.csv ..\results\oui${i}.txt 2 }
-
-for($i=1; $i -lt 30; $i=$i+1){ python3 affichagev2.py ..\results\oui${i}.txt }
-```
-## commandes à executer sous linux :
-```bash
-for ((i=1;i =30;i++)); do ./a.out ../traj/${i}.csv ../resultGaussMixt/${i}.txt 1 ; done
-```
-
-## Origine :
-(4.36,50.84)
-
