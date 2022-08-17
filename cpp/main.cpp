@@ -19,7 +19,7 @@ int main(){
     vector<point> bus{};
     cout<<"obs size : : "<<points.size()<<endl;
     vector<point> pointss;
-    for(int i=0;i<15;++i){
+    for(int i=0;i<points.size();++i){
         pointss.push_back(points[i]);
     }
 

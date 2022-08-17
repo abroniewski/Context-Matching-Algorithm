@@ -342,8 +342,8 @@ vector<state_c> update_fish(vector<state_c> echantillon, int t,line coast){
     vector<state_c> nouveau(echantillon.size());
     for(int i=0;i<echantillon.size();++i){
 
-        //nouveau[i]=update_fish(echantillon[i],t,coast);
-        nouveau[i]=update_fishv1(echantillon[i],t); //ligne à changer pour changer de méthode !
+        nouveau[i]=update_fish(echantillon[i],t,coast);
+        //nouveau[i]=update_fishv1(echantillon[i],t); //ligne à changer pour changer de méthode !
     }
     return(nouveau);
 }

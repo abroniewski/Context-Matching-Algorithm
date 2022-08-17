@@ -12,15 +12,15 @@ int main(int argc, char *argv[]){
 
 
     if(argc>=2){
-        //cout<<"input"<<endl;
-        pointsfish=read_csv(argv[1],4,3,2);
+
+        pointsfish=read_csv(argv[1],4,3,2,0,1);
+
         label=read_label(argv[1],5);
 
     }else{
-        pointsfish=read_csv("../1traj.csv",4,3,2);
+        pointsfish=read_csv("../1traj.csv",4,3,2,0,1);
         label=read_label("../1traj.csv",5);
     }
-    //vector<observation> pointsfish=read_csv("../1traj.csv",4,3,2);
     
     vector<point> pointss;
     for(int i=0;i<pointsfish.size();++i){
@@ -33,14 +33,7 @@ int main(int argc, char *argv[]){
     
    point init = pointss[0] +(1,1);
     line coast(vector<point>({init}));
-
     vector<state_c> states=particle_filterv2(pointsfish,coast,100); //100
-    /*
-    vector<int> processed=lissage(states,10);
-    for(int k=0;k<states.size();++k){
-        states[k].context=processed[k];
-    }
-    */
     
 
     vector<point> match_sail;

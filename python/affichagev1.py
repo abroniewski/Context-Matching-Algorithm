@@ -69,8 +69,8 @@ def readplot(filename):
     #ax.fill(*ListePolygones)
     plt.axis("equal")
     plt.title("success : %f "%(right[0][0]/(right[0][0]+wrong[0][0])))
-    #plt.show()
-    plt.savefig("../resultGaussDoubleMixt_png/%s"%(filename[25:-4])+".png")
+    plt.show()
+    #plt.savefig("../resultGaussDoubleMixt_png/%s"%(filename[25:-4])+".png")
     print("Reading : Ended ({0})".format(filename))
 
 ##############################################################################################################

@@ -16,6 +16,14 @@
 - nbformat
 # Map Matching
 
+## Set up 
+The trajectory must be a GPX file, the road data are extracted from a OSM file
+All the set up can be done in the main file :
+- To change the OSM file : change path line 14
+- To change the GPX file : change path line 16
+- To change the number of points to match : change int line 22
+- To change the output file name : chznge path line 33
+The GPX and OSM files must not be modified from the standard format
 ## Compiling 
 ```bash
 g++ ./cpp/class.cpp ./cpp/context.cpp ./cpp/io.cpp ./cpp/main_context_city.cpp 
@@ -24,17 +32,44 @@ g++ ./cpp/class.cpp ./cpp/context.cpp ./cpp/io.cpp ./cpp/main_context_city.cpp
 ```bash
 ./a.out 
 ```
+## Display
+```bash
+python3 python/affichage.py output.txt 
+```
 # Context Matching : fishing vessels
+## Set up 
+The input file must be a csv file with the following structure
+```
+"n","id","t","x","y","label"
+"1","219001125-3",2021-11-15 02:54:18,594767.946816762,6398600.51909148,"01-sailing"
+```
+The date is in format yyyy-mm-dd HH:MM:SS
+The coordinates "x" and "y" are in meters (from any reference point). 
+The label can be "01-sailing", "02-fishing" or "03-sailing".
+The id columns is ignored.
+
+
+## Compiling
 ```bash
 g++ ./cpp/class.cpp ./cpp/context.cpp ./cpp/io.cpp ./cpp/main_context_fishing.cpp 
 ```
 ## Execution : with 2 labels
 ```bash
-./a.out  ./AIS_traj/traj/i.csv 1
+./a.out  ./AIS_traj/traj/1.csv output.txt 1
+```
+In the console is displayed the tuple $(r,f)$ with $r$ the number of correctly labeled points, $f$ the number of false labeled points.
+## Display
+```bash
+python3 python/affichagev1.py output.txt 
 ```
 ## Execution : with 3 labels
 ```bash
-./a.out  ./AIS_traj/traj/i.csv 2
+./a.out  ./AIS_traj/traj/1.csv output.txt 2
+```
+In the console are displayed the 9 numbers that corresponds to the boxes in the table of the report. The 1st, 4th, 9th numbers must be the bigger and the other the lower.
+## Display
+```bash
+python3 python/affichagev2.py output.txt 
 ```
 # Context Matching : city user
 ## Compiling 

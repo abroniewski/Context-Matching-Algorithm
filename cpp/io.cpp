@@ -321,7 +321,7 @@ void write_to_json(const char *filename, vector<point> points, vector<int> type,
     fichier.close();
 }
 
-vector<observation> read_csv(const char *filename,int lat, int lon,int time, int GC){
+vector<observation> read_csv(const char *filename,int lat, int lon,int time, int GC, int bateau){
     ifstream fichier;
     fichier.open(filename);
     vector<observation> gpxpoint;
@@ -345,7 +345,14 @@ vector<observation> read_csv(const char *filename,int lat, int lon,int time, int
                 point z(x,y);
                 //cout<<"point pushed"<<endl;
                 vector<string> I = split(T[time],' ');
-                vector<string> K=split(I[0],'.'); //a changer pour les gpx
+                vector<string> K=I;
+                if(bateau==1){
+                    K=split(I[0],'-'); //a changer pour les gpx
+
+                }else{
+                    K=split(I[0],'.'); //a changer pour les gpx
+
+                }                
                 vector<string> J=split(I[1],':');
                 int t=3600*24*stoi(K[2])+3600*stoi(J[0]) + 60*stoi(J[1]) + stoi(J[2]);
                 //A changer si on veut etre en metres / GC
