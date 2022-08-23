@@ -66,4 +66,4 @@ with open('output.txt', 'r') as f:
 
 final_df["id"] = "c827a6"
 print(final_df)
-final_df.to_csv("db_ready.csv", index=False)
+final_df.to_csv("output_db_ready.csv", index=False)
