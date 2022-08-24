@@ -1,0 +1,27 @@
+We were able to reproduce the context matching successfully with only the information in the readme file and the discussion we had in your office. The code is written in a way that made it easy to understand, and we were also able to run the algorithm on data we produced from the flight trajectories.
+
+Honestly, for the short period of time you had, it's quite impressive what you were able to accomplish in both understanding the theoretical approach, developing an implementation, and communicatig the results. I had no idea this was a 3 month project. Really impressive work!
+
+Please see below some notes we initially jotted down as we were going through the repo (without access to your report at the time). Some feedback can be easily implemented, some aspects might be stylistic or personal preference, and some are provided knowing they would be project extensions. Please treat these all as ideas and jumping off points. I'd be happy to expand on the points if you'd like at any time (just shoot me an email). Also, please note that I am personally quite new to the computer science world (~1 year) and am likely missing some nuances or conventions that others might be well aware of!]
+
+Here are some ideas for you:
+
+1. Include a description/intro of what the project is to help make the readme stand-alone (copy/paste from report)
+2. Describe OSM and why the used needs it. I was anticipating this would be for display purposes.
+3. Give exact file download needed (https://download.geofabrik.de/europe/belarus-latest.osm.pbf)
+4. Be explicit that the OSM download/loading steps are already completed, but the readme provides a description of how the source was pulled. In this case, we had gone through the process of finding and downloading the data, and later found it was already included in the repo.
+5. Include comments directly in code to explain code and guide user to where changes need to be made to reproduce with different datasets.
+6. For Mac compile, I needed to add -std=c++11 flag
+7. package requirements -> rename "sys" to "os-sys"
+8. Add screenshots of output to readme file so that user knows whether output is as expected
+9. Consider using more descriptive names for compiled files and output.txt file. Also, use a different compiled filename for map match vs context match.
+10. Project Extension -> add script to visualize data with OSM map layer included in the python output file
+11. traj/1.csv -> missing "n" in the headers. Input csv file and readme.md describes requirements that don't end up getting used by algorithm. Consider updating requirements and inputs to reflect the needs of the current version of the code.
+12. Include lambert vs SRID info for GPS coordinates. It was not immediately obvious what format these values needed to be in on the input file.
+13. Include an explanation of the output.txt file format and what colors of python plot signify.
+14. Project Extension -> match output.txt format to input.csv format. Metadata is lost in the output, making it difficult to upload the data back into other applications (for example, the database where the data originate from).
+15. Include a brief description of how to algorithm works in the readme. In the current implementation, this could include a description of the x,y coordinates used to calculate velocity and the mean and standard deviation use.
+16. Project Extension -> Consider including legend in python visualization and choosing different colors that show difference more clearly
+17. Include a description of the use of R script for mean and standard deviation calculation
+18. Project Extension -> Consider automatically calculating mean and standard deviation directly from the input data. Perhaps the R script and C++ implementation could be wrapped together in a single script?
+19. Project Extension -> I may be off-base on this, but I believe this implementation has data leakage, as the data being used to train the model is also being used to validate its accuracy. Consider using a train-test split so that the data used to train the model (in this case the mean and standard deviation) is not the same dataset being used to validate accuracy.
